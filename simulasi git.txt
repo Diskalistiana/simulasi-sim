@@ -1,0 +1,5 @@
+jadwal sim:
+- kontrak
+- pendahuluan
+- review basis data
+- koneksi dari SQL ke R
