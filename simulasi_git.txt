@@ -5,4 +5,4 @@ jadwal sim:
 
 materi 2: 
 - review analisis data
-- 
+- push git bash ke repository
